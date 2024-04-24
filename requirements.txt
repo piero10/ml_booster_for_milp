@@ -1,0 +1,10 @@
+pyscipopt==3.4.0
+pyyaml==6.0
+pathlib2==2.3.7
+python-dotenv==0.20.0
+numpy==1.22.4
+pandas==1.4.2
+pathlib2==2.3.7.post1
+dotenv==1.0.1
+matplotlib
+sklearn

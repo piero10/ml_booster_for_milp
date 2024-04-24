@@ -1,0 +1,22 @@
+# input/output
+output/
+notebooks/
+data/
+images/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.lof
+*.lot
+
+# artifacts
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+researches/catboost_info/time_left.tsv
+researches/catboost_info/catboost_training.json
+researches/catboost_info/learn_error.tsv
